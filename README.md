@@ -1,1 +1,4 @@
-Halloo
+- physics engine funktion und andwendung
+- website umgebung bauen
+- assets
+- game bauen
